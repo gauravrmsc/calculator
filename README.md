@@ -38,6 +38,6 @@ org.calculator.exception.ExpressionParsingException: Size of the expression shou
 ```
 
 ### Resources and Links
-[How to write clean code? Lessons learnt from “The Clean Code” — Robert C. Martin](https://medium.com/mindorks/how-to-write-clean-code-lessons-learnt-from-the-clean-code-robert-c-martin-9ffc7aef870c)
-[Clean Code - Uncle Bob - Playlist](https://www.youtube.com/watch?v=7EmboKQH8lM&list=PLmmYSbUCWJ4x1GO839azG_BBw8rkh-zOj)
-[7 Ways to Refactor Java switch Statements | Developer.com](https://www.developer.com/design/seven-ways-to-refactor-java-switch-statements/)
+- [How to write clean code? Lessons learnt from “The Clean Code” — Robert C. Martin](https://medium.com/mindorks/how-to-write-clean-code-lessons-learnt-from-the-clean-code-robert-c-martin-9ffc7aef870c)
+- [Clean Code - Uncle Bob - Playlist](https://www.youtube.com/watch?v=7EmboKQH8lM&list=PLmmYSbUCWJ4x1GO839azG_BBw8rkh-zOj)
+- [7 Ways to Refactor Java switch Statements | Developer.com](https://www.developer.com/design/seven-ways-to-refactor-java-switch-statements/)
