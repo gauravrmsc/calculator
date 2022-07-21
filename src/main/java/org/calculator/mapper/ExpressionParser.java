@@ -9,8 +9,8 @@ import org.calculator.factory.OpcodeFactory;
  * @author gauravkumar
  * @since 16/07/22
  */
-public class ExpressionMapper {
-    public Expression getExpression(String expressionStr) throws ExpressionParsingException {
+public class ExpressionParser {
+    public Expression parseExpression(String expressionStr) throws ExpressionParsingException {
         String[] parts = expressionStr.split(" ");
         if (parts.length != 3) {
             throw new ExpressionParsingException("Size of the expression should be 3");
